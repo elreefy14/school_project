@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "920059684254",
+    "firebase_url": "https://learning-academy-management-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "learning-academy-management",
+    "storage_bucket": "learning-academy-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920059684254:android:ef55e9925e5d932a62e28f",
+        "android_client_info": {
+          "package_name": "com.alaa.learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtcjeiES-ZabMJMqgD5Vbl1IwFr5SF4HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920059684254:android:1e071a33afade1bf62e28f",
+        "android_client_info": {
+          "package_name": "com.alaa.school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtcjeiES-ZabMJMqgD5Vbl1IwFr5SF4HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
